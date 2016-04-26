@@ -1,0 +1,30 @@
+#dak-nav
+{
+	background-color:DarkGreen;
+}
+
+#dak-nav a
+{
+	color:White;
+}
+
+#dak-nav ul
+{
+	color:White;
+	padding: 5px 15px 5px 5px;
+}
+
+.dakonon-line
+{
+	border-width:3px;
+	border-color:DarkGreen;
+	max-width: 350px;
+	padding-bottom:15px;
+}
+
+footer
+{
+	background-color:DarkGreen;
+	color:White;
+	padding: 10px 5px 5px 5px;
+}
